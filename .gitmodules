@@ -1,0 +1,3 @@
+[submodule "code/anomalib"]
+	path = code/anomalib
+	url = git@github.com:Rookie-AI-CV/anomalib.git
